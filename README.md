@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarasa0310
 - 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning Java & Spring
-- 💞️ I’m looking to collaborate on building cool REST APIs
+- 💞️ I’m looking to collaborate on building highly available and reliable RESTful APIs
 - 📫 How to reach me : dev.sarasa.0310@gmail.com
 
 <!---
