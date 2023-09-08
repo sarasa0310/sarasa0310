@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sarasa0310
-- 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Java & Spring
-- 💞️ I’m looking to collaborate on building highly available and reliable RESTful APIs
-- 📫 How to reach me : dev.sarasa.0310@gmail.com
+- 👋 안녕하세요, 저는 백엔드 개발자 은지일입니다.
+- 👀 Java, Spring, JPA를 활용한 백엔드 개발에 자신이 있습니다.
+- 🌱 인프런 김영한 JPA 로드맵 완강 후, 기존 프로젝트 전면 리팩토링을 진행하고 있습니다.(Lazy Loading, 쿼리 최적화, Querydsl 도입 등)
+- 💞️ 고가용성과 안정성을 갖춘 RESTful API를 개발하는데 기여할 기회를 찾고 있습니다.
+- 📫 이메일 : dev.sarasa.0310@gmail.com / 블로그 : https://velog.io/@sarasa0310
 
 <!---
 sarasa0310/sarasa0310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
